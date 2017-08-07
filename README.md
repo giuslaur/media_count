@@ -1,4 +1,4 @@
-<h1>Media data from MAVISE DB<h1>
+<h1>Media data from MAVISE DB</h1>
 
 License
 
